@@ -1,0 +1,13 @@
+{
+	"streaks": [
+		{
+			"code": "GL1",
+			"label": "Intermittently fasting",
+			"description": null,
+			"period": {
+				"start": "2022-01-01T00:00:00.000Z",
+				"end": "2022-04-01T00:00:00.000Z"
+			}
+		}
+	]
+}
